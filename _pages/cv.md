@@ -13,13 +13,6 @@ Education
 ======
 * B.A. in Classics and Contemporary Studies, University of King's College, 2014
 * B.A. in Mathematics and Computer Science, McGill University, 2019 (expected)
-
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Publications
 ======
