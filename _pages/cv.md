@@ -21,20 +21,19 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-**Publications**
-
+Publications
 ======
 
 Stark, John. “Heidegger Bound: Ancient Techne”. Tooth & Claw: Journal of the History of Science and Technology Society, University of King's College Halifax, vol IX (2012), pp. 58-64.
 
 Stark, John. “Reading Benjamin in Translation”. Hinge: A Journal of Contemporary Studies, vol XVIII (2012), pp. 51-61. 
 
-**Academic Experience**
+Academic Experience
 ======
 
 International Summer School for Young Physicists. Perimeter Institute for Theoretical Physics, Waterloo, Ontario. Summer 2009.
 
-**Research Experience**
+Research Experience
 ======
 
 Research Assistant for Susan M. Dodds and Neil G. Robertson, Hegel and Canada: Unity of Opposites? Spring 2014.
@@ -43,7 +42,8 @@ Research Assistant for Melanie Frappier. Compiled excerpts from engineering disc
 
 Research Assistant for William Barker, Collected Works of Erasmus: Prolegomona to the Adages. Verified random index entries for accuracy. Summer 2014.
 
-**Administrative Experience**
+Administrative Experience
+======
 
 2018: Treasurer, Montreal West Operatic Society
  Handle expenses and donations for charitable organization
@@ -72,13 +72,15 @@ Research Assistant for William Barker, Collected Works of Erasmus: Prolegomona t
  Spokesperson for Canadian Federation of Students Nova Scotia
  Responsible for keeping finances and records of organization in order
 
-**Languages**
+Languages
+======
 
 Fluent in English
 Strong reading and speaking knowledge of French
 Basic reading knowledge of Latin and Greek
 
-**Programming Languages**
+Programming Languages
+======
 * Imperative: C, Java, Python
 * Functional: OCaml
 * Declarative: SQL, REGEX
