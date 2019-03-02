@@ -80,7 +80,7 @@ analytics:
 # Site Author
 author:
   name             : "John Stark"
-  avatar           : "profile.png"
+  avatar           : "me.jpg"
   bio              : "Student and researcher in practice/philosophy of science, technology, and mathematics"
   location         : "Montreal, QC"
   employer         :
@@ -93,12 +93,12 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/jjnstark"
+  github           : "jjnstark"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/jjnstark/"
   orcid            : "https://orcid.org/0000-0002-4029-7166"
   pinterest        :
   soundcloud       :
