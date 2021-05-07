@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a student at McGill University in Montreal, currently pursuing a BA in Mathematics and Computer Science. I also hold a first class honours degree in Classics and Contemporary Studies with a minor in the History of Science and Technology from the University of King's College in Halifax, NS. My interests include the practice and philosophy of mathematics, physics and computer science; politics and power; ontology; mythology; and much more.
+I am a MA Candidate in Philosophy at the University of Western Ontario in London, ON. I hold a BA in Mathematics and Computer Science from McGill University in Montreal, QX as well as a BA in Classics and Contemporary Studies with a minor in the History of Science and Technology from the University of King's College in Halifax, NS. My interests include the practice and philosophy of mathematics, physics and computer science; politics and power; ontology; mythology; and much more.
