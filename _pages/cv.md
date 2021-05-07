@@ -12,7 +12,8 @@ redirect_from:
 Education
 ======
 * B.A. in Classics and Contemporary Studies, University of King's College, 2014
-* B.A. in Mathematics and Computer Science, McGill University, 2019 (expected)
+* B.A. in Mathematics and Computer Science, McGill University, 2019
+* M.A. in Philosophy, University of Western Ontario, 2021 (expected)
    
 Publications
 ======
@@ -35,14 +36,19 @@ Research Assistant for Melanie Frappier. Compiled excerpts from engineering disc
 
 Research Assistant for William Barker, Collected Works of Erasmus: Prolegomona to the Adages. Verified random index entries for accuracy. Summer 2014.
 
-Administrative Experience
+Work and Administrative Experience
 ======
+2019-2020: Salesforce Implementation Specialist, BKonect Solutions
+  Work directly with businesses to assess their CRM needs
+  Design and implement complex processes with both declarative and development tools
+  Configure Sales Cloud and Service Cloud to optimize use 
+  Implement Non-Profit Success Pack for partners
 
 2018: Treasurer, Montreal West Operatic Society
  Handle expenses and donations for charitable organization
  Reconcile bank statements and track transactions in QuickBooks
 
-2016-present: Residence Services Representative, Parc Cité Residence
+2016-2019: Residence Services Representative, Parc Cité Residence
  Manage leasing process from initial contact to signing
  Communicate via email, phone, and chat with prospective residents (~15 per day)
 
