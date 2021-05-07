@@ -39,37 +39,37 @@ Research Assistant for William Barker, Collected Works of Erasmus: Prolegomona t
 Work and Administrative Experience
 ======
 2019-2020: Salesforce Implementation Specialist, BKonect Solutions
-  Work directly with businesses to assess their CRM needs
-  Design and implement complex processes with both declarative and development tools
-  Configure Sales Cloud and Service Cloud to optimize use 
-  Implement Non-Profit Success Pack for partners
+ * Work directly with businesses to assess their CRM needs
+ * Design and implement complex processes with both declarative and development tools
+ * Configure Sales Cloud and Service Cloud to optimize use 
+ * Implement Non-Profit Success Pack for partners
 
 2018: Treasurer, Montreal West Operatic Society
- Handle expenses and donations for charitable organization
- Reconcile bank statements and track transactions in QuickBooks
+* Handle expenses and donations for charitable organization
+* Reconcile bank statements and track transactions in QuickBooks
 
 2016-2019: Residence Services Representative, Parc Cité Residence
- Manage leasing process from initial contact to signing
- Communicate via email, phone, and chat with prospective residents (~15 per day)
+ * Manage leasing process from initial contact to signing
+ * Communicate via email, phone, and chat with prospective residents (~15 per day)
 
 2014-2016: Community Manager, OOHLALA Mobile Inc.
- Main point of contact for over 50 accounts
- Worked with four team members to develop strategies for product adoption
- Answered email enquiries on behalf of company
+ * Main point of contact for over 50 accounts
+ * Worked with four team members to develop strategies for product adoption
+ * Answered email enquiries on behalf of company
 
 2012-2014: National Executive Representative, Canadian Federation of Students Nova Scotia
- Member of National Executive Committee of the Canadian Federation of Students, Canada’s largest student federation with over     300,000 members
- Spokesperson for Canadian Federation of Students Nova Scotia, representing 10,000 members
- Participated in meetings with government, political parties, and university administrations
+ * Member of National Executive Committee of the Canadian Federation of Students, Canada’s largest student federation with over     300,000 members
+ * Spokesperson for Canadian Federation of Students Nova Scotia, representing 10,000 members
+ * Participated in meetings with government, political parties, and university administrations
 
 2012-2013: President, King’s Students’ Union         
- Wrote reports for and served on the University of King’s College Board of Governors
- Chaired meetings of the Union’s Executive Committee
- Responsible for office management, including supervising more than 5 staff
+ * Wrote reports for and served on the University of King’s College Board of Governors
+ * Chaired meetings of the Union’s Executive Committee
+ * Responsible for office management, including supervising more than 5 staff
 
 2011-2012: Treasurer, Canadian Federation of Students Nova Scotia
- Spokesperson for Canadian Federation of Students Nova Scotia
- Responsible for keeping finances and records of organization in order
+ * Spokesperson for Canadian Federation of Students Nova Scotia
+ * Responsible for keeping finances and records of organization in order
 
 Languages
 ======
